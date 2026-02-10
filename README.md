@@ -9,3 +9,4 @@ This repository is created for GitHub workshop practice.
 ## Folder Structure
 - README.md
 - intro.txt
+This line was modified in branch A.
